@@ -48,12 +48,28 @@
     </td>
     <!-- RIGHT IMAGE (dark card) -->
     <td width="35%" valign="top" align="center" style="padding:10px;">
-      <div style="background:#07070a; padding:12px; border-radius:6px; border:1px solid rgba(255,255,255,0.16);">
-        <!-- Replace YOUR_RAW_GIF_URL with raw.githubusercontent.com/... -->
-        <img src="Image.jpg" width="210" alt="" style="display:block; border-radius:6px;" />
-        <p style="margin:10px 0 0 0; font-size:12px; color:#9aa6ad;"></p>
-      </div>
-    </td>
+  <div style="
+    background:#07070a; 
+    padding:12px; 
+    border-radius:6px; 
+    border:1px solid rgba(255,255,255,0.16);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100%;
+  ">
+    <img 
+      src="Image.jpg" 
+      alt="" 
+      style="
+        width:100%; 
+        height:100%; 
+        object-fit:cover; 
+        border-radius:6px;
+      " 
+    />
+  </div>
+</td>
   </tr>
 </table>
 
@@ -82,67 +98,4 @@
 </p>
 
 ---
-<h2 align="center">Major Project Repositories</h2>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/Juzt-nik/Traffic-AQI" style="text-decoration:none;">
-        <div style="background:#000;padding:12px;border:1px solid #fff;border-radius:5px;">
-          <strong style="color:#fff">Traffic-AQI</strong><br>
-          <span style="color:#ddd;font-size:13px">AQI prediction model based on cars present in an intersection-signal.</span><br>
-          <span style="font-size:12px;color:#ccc">Python + YOLO</span>
-        </div>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/Juzt-nik/YatraSeva" style="text-decoration:none;">
-        <div style="background:#000;padding:12px;border:1px solid #fff;border-radius:6px;">
-          <strong style="color:#fff">YatraSeva</strong><br>
-          <span style="color:#ddd;font-size:13px">A tourist safety monitoring application with incident-response system.</span><br>
-          <span style="font-size:12px;color:#ccc">Flutter</span>
-        </div>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/Juzt-nik/Customer-Churn-Predictor" style="text-decoration:none;">
-        <div style="background:#000;padding:12px;border:1px solid #fff;border-radius:6px;">
-          <strong style="color:#fff">Customer Churn Predictor</strong><br>
-          <span style="color:#ddd;font-size:13px">A prediction model to analyze the customer churn data and retention methods.</span><br>
-          <span style="font-size:12px;color:#ccc">Python</span>
-        </div>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/Juzt-nik/Chatbot" style="text-decoration:none;">
-        <div style="background:#000;padding:12px;border:1px solid #fff;border-radius:6px;">
-          <strong style="color:#fff">AquaTrace</strong><br>
-          <span style="color:#ddd;font-size:13px">AI-based chatbot used to resolve water related queries and problems. </span><br>
-          <span style="font-size:12px;color:#ccc">Python</span>
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Row 2: Contribution Graph (Full Width) -->
-<div align="center" style="background:#07070a; padding:16px; border-radius:6px; border:1px solid rgba(255,255,255,0.20); width:100%; box-sizing:border-box;">
-  <img 
-    src="https://ghchart.rshah.org/Juzt-nik" 
-    width="100%" 
-    alt="Contribution Graph"
-  />
-</div>
-
----
-
-<p align="center">
-  <img src="YOUR_BOTTOM_CHARACTER_IMAGE" width="150"/>
-</p>
-
 
