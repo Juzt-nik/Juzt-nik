@@ -6,19 +6,19 @@
 ---
 <p align="center">
 
-  <a href="YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/s-r-chowdhury" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 
-  <a href="YOUR_LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/juzt_Nik/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-1E1E1E?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:sroychowdhury317@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
 
-  <a href="YOUR_X" target="_blank">
+  <a href="https://x.com/just_nik9" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-1E1E1E?style=for-the-badge&logo=x&logoColor=ffffff" />
   </a>
 
