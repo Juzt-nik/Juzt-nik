@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/Twitter(X)-1E1E1E?style=for-the-badge&logo=x&logoColor=ffffff" />
   </a>
 
-  <a href="YOUR_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-1E1E1E?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <a href="sagnikroychowdhury.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 
 </p>
